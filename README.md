@@ -7,7 +7,7 @@ Our assignment was to analyze sales data using Pandas methods to answer a series
 
 ## Description
 
-This is a class assignment to analyze sales data to gain insights into which cities in the U.S. have sold the most athletic wear over two years. Next, I'll determine which retailers had the greatest total sales for athletic wear, and which retailers sold the most women's athletic footwear. Finally, I'll determine which day and week had the highest sales for women's athletic footwear..
+This is a class assignment to analyze sales data to gain insights into which cities in the U.S. have sold the most athletic wear over two years. Next, I determined which retailers had the greatest total sales for athletic wear, and which retailers sold the most women's athletic footwear. Last, I determined which day and week had the highest sales for women's athletic footwear..
 
 ## Getting Started
 
@@ -80,7 +80,7 @@ This is a class assignment to analyze sales data to gain insights into which cit
 | **retailer** |**region** | **state** | **city** | |
 | **West Gear** | **West** | **California** | **San Francisco** | 32794405 |
 | **Kohl's** | **West** | **California** | **Los Angeles** | 25127160 |
-| **Foot Locker** | **Northeast** | **New York** | **New York** | 825008568 |
+| **Foot Locker** | **Northeast** | **New York** | **New York** | 25008568 |
 | **West Gear** | **West** | **Washington** | **Seattle** | 24862675 |
 | **Foot Locker** | **Southeast** | **South Carolina** | **Charleston** | 24822280 |
 
